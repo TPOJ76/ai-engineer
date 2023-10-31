@@ -1,4 +1,5 @@
-# ai-engineer
+#original statement from the author of the script:
+#ai-engineer
 AI Engineer Skills Beginners
 
 Here are all the scripts used in Episode 1: OpenAI API
