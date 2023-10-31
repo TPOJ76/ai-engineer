@@ -1,7 +1,7 @@
 import openai
 
-# Initialize the OpenAI API
-openai.api_key = "YOUR API KEY"
+from config import API_KEY  # Importing API key from config file
+openai.api_key = API_KEY  # Setting the API key for OpenAI
 
 # Initialize the conversation list
 conversation = [
