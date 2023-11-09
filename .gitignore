@@ -2,3 +2,10 @@
 config.py
 # icon ordering
 .DS_Store
+#directorz for generated images
+downloaded_images/
+
+__pycache__/
+
+openaiapikey.txt
+
