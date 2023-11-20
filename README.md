@@ -10,3 +10,11 @@ Remember to swap your own API KEY and PATHS
 Enjoy :)
 
 Kris
+
+#scripts are suitable for older version openai module, especialy to access openai.Audio
+
+run pip install openai==0.28
+
+Enjoy
+
+Tomas
